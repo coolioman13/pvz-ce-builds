@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1789724987|62118203';
+const CACHE_VERSION = '1789730691|76594689';
 /** @type {string} */
 const CACHE_PREFIX = 'Plants vs. Zombi-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
